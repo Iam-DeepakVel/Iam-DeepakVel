@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-"Welcome to my GitHub profile! My name is Deepak and I am currently a 3rd year BTech IT student at Coimbatore Institute of Technology. I am passionate about full stack web development and always eager to learn new technologies. My expertise includes React, Node.js, Express, MongoDB, Eleventy, Tailwind CSS, and I am also well-versed in Next.js and Firebase. I am dedicated to improving my skills and expanding my knowledge in the field. I am also technically sound and have a good subject knowledge. My portfolio showcases my projects and experiences, feel free to take a look and connect with me."
+"Welcome to my GitHub profile! My name is Deepak and I am currently a 3rd year BTech IT student at Coimbatore Institute of Technology. I am passionate about full stack web development and always eager to learn new technologies. My expertise includes React, Node.js, Express, MongoDB, Eleventy, Tailwind CSS. I am continually expanding my expertise in utilizing the TypeScript and NestJS framework to create efficient and scalable web applications. I am dedicated to improving my skills and expanding my knowledge in the field. I am also technically sound and have a good subject knowledge. My portfolio showcases my projects and experiences, feel free to take a look (https://deepakwings.netlify.app) and connect with me."
 
 
 ## 🌐 Socials:
