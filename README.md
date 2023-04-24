@@ -1,22 +1,23 @@
 
-### Hi there 👋
+# Greetings! 👋Step into my GitHub realm
 
-# 💫 About Me:
-Welcome to my GitHub profile! My name is Deepak, and I am a highly motivated 3rd year BTech IT student at Coimbatore Institute of Technology. My passion lies in full stack web development, and I am constantly eager to learn and adapt to new technologies. With expertise in React, Next.js, Node.js, Express, MongoDB, Eleventy, and Tailwind CSS, I strive to create efficient and scalable web applications. Additionally, I am expanding my skills in TypeScript and NestJS framework to enhance my ability to deliver high-quality results.
+## 💫 About Me:
+🧑‍💻Highly motivated 3rd year BTech IT student at Coimbatore Institute of Technology.
 
-As a dedicated learner, I am continually improving my skills and expanding my knowledge in the field of web development. My portfolio showcases my projects and experiences, and I encourage you to take a look at https://deepakwings.netlify.app. I am confident in my technical proficiency and possess a strong foundation in subject knowledge. I am committed to utilizing my expertise to create cutting-edge web applications that are both functional and visually appealing.
+🌟Passionate about full stack web development and eager to learn new technologies.
 
-I am highly focused on creating web solutions that meet the needs of clients and end-users alike. I strive to maintain a professional and collaborative approach in all my projects, and I am keen on connecting with fellow professionals in the industry. If you would like to discuss potential collaboration opportunities or have any questions, please feel free to connect with me. I look forward to exploring new possibilities and contributing to the world of web development with my skills and knowledge.
+❣️Expertise in React.js, Next.js, Node.js, Express, MongoDB, and Tailwind CSS.
 
+⚡Expanding skills in TypeScript and NestJS framework.
+
+🚀Impressive portfolio showcasing projects and experiences at https://deepakwings.netlify.app.
+
+⚽I enjoy playing badminton and listening to music.
   
 
-<div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-deepakvel&show_icons=true&theme=transparent)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-deepakvel&layout=compact)](https://github.com/iam-deepakvel/github-readme-stats)
-  
-</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Iam-DeepakVel&icon=2&color=0)](https://visitcount.itsvg.in)
@@ -66,6 +67,7 @@ I am highly focused on creating web solutions that meet the needs of clients and
 
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-deepakvel&layout=compact)](https://github.com/iam-deepakvel/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Iam-DeepakVel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
