@@ -16,7 +16,7 @@
   
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-deepakvel&show_icons=true&theme=transparent)
+
 
 
 ---
@@ -67,7 +67,7 @@
 
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-deepakvel&layout=compact)](https://github.com/iam-deepakvel/github-readme-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Iam-DeepakVel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
