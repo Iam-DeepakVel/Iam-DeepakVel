@@ -12,7 +12,7 @@
 
 🚀Impressive portfolio showcasing projects and experiences at https://deepakwings.netlify.app.
 
-⚽I enjoy playing badminton and listening to music.
+🏸I enjoy playing badminton and listening to music.
   
 
   
