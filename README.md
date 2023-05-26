@@ -1,5 +1,8 @@
+## <p align="left">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Step into my GitHub realm</p>
 
-# Greetings! 👋Step into my GitHub realm
+
+<a href="https://github.com/Iam-DeepakVel"><img src="https://readme-typing-svg.demolab.com?font=&color=%23FF0000&lines=Frontend+Developer;Backend+Developer;IT+Student;Active+Programmer;Craze+on+Full+Stack+development;Passionate+about+Innovation;Love+to+Code+and+Create"></a>
+
 
 ## 💫 About Me:
 🧑‍💻Highly motivated 3rd year BTech IT student at Coimbatore Institute of Technology.
@@ -15,22 +18,66 @@
 🏸I enjoy playing badminton and listening to music.
   
 
-![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=iam-deepakvel&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-deepakvel&theme=tokyonight&layout=compact)
-
-
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Iam-DeepakVel&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Iam-DeepakVel&icon=2&color=7)](https://visitcount.itsvg.in)
 
 
-## 💬 Socials:
+```javascript
+const Deepak = {
+  aboutMe: {
+    name: "Deepak",
+    college: "Coimbatore Institute Of Technology",
+    course: "BTech",
+    department: "Information Technology",
+    year: "Third"
+  },
+  askMeAbout: ["Web Development", "Devops"],
+  technologies: {
+    programmingLanguages: ["C++"],
+    frontend: {
+      frameworksAndLibraries: [
+        "TypeScript",
+        "HTML5",
+        "CSS3",
+        "TailwindCSS",
+        "React",
+        "Next.js",
+        "Astro",
+        "11ty"
+      ]
+    },
+    backend: {
+      technologies: {
+        runtimeEnvironment: "Node.js",
+        frameworks: ["Express.js", "NestJS"]
+      }
+    },
+    databases: ["MongoDB", "PostgreSQL", "Firebase"],
+    containerization: "Docker",
+    ciCd: ["Jenkins", "GitHub Actions"],
+    versionControl: ["Git", "GitHub", "GitLab"],
+    cloudPlatforms: [
+      "AWS (Amazon Web Services)",
+      "Netlify",
+      "Heroku",
+      "Vercel"
+    ],
+    awsServices: ["EC2", "Lambda function", "S3", "SES"],
+    apiTestingTools: ["Postman", "Insomnia"],
+    webServer: "NGINX"
+  }
+};
+
+
+```
+
+
+### ☁️ Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdeepakvel) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Iam_DeepakVel) 
 
-## ✨ Tools and Technologies ✨
 
-
+### ✨ Tools and Technologies ✨
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -69,9 +116,14 @@
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
+### 🎖️ Github Stats:
+| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=iam-deepakvel&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-deepakvel&show_icons=true&locale=en&layout=compact&theme=radical" alt="Deepak's Most used languages" /> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=Iam-DeepakVel&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Deepak's Streak" />                                           |  <img width="450em" align="center" alt="Deepak's Github stats"  src="https://github-readme-stats.vercel.app/api?username=Iam-DeepakVel&show_icons=true&count_private=true&theme=radical" />   |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Iam-DeepakVel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 📈 Contribution Graph
+<img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=Iam-DeepakVel&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Deepak's Contribution Graph" /> 
 
 
 ### ✍️ Random Dev Quote
