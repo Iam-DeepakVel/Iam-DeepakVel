@@ -15,7 +15,8 @@
 🏸I enjoy playing badminton and listening to music.
   
 
-  
+![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=iam-deepakvel&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-deepakvel&theme=tokyonight&layout=compact)
 
 
 
