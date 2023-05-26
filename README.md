@@ -126,7 +126,7 @@ const Deepak = {
 <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=Iam-DeepakVel&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Deepak's Contribution Graph" /> 
 
 
-### ✍️ Random Dev Quote
+### ❤️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
