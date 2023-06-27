@@ -34,9 +34,9 @@ const Deepak = {
   askMeAbout: ["Web Development", "Devops"],
   technologies: {
     programmingLanguages: ["C++"],
+    scriptingLanguages: ["Javascript","Typescript"],    
     frontend: {
       frameworksAndLibraries: [
-        "TypeScript",
         "HTML5",
         "CSS3",
         "TailwindCSS",
