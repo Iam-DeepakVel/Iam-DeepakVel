@@ -29,7 +29,7 @@ const Deepak = {
     college: "Coimbatore Institute Of Technology",
     course: "BTech",
     department: "Information Technology",
-    year: "Third"
+    year: "Fourth"
   },
   askMeAbout: ["Web Development", "Devops"],
   technologies: {
