@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me:
-🧑‍💻Highly motivated 3rd year BTech IT student at Coimbatore Institute of Technology.
+🧑‍💻Highly motivated final year BTech IT student at Coimbatore Institute of Technology.
 
 🌟Passionate about full stack web development and eager to learn new technologies.
 
@@ -34,7 +34,7 @@ const Deepak = {
   askMeAbout: ["Web Development", "Devops"],
   technologies: {
     programmingLanguages: ["C++"],
-    scriptingLanguages: ["Javascript","Typescript"],    
+    scriptingLanguages: ["Typescript","Javascript"],    
     frontend: {
       frameworksAndLibraries: [
         "HTML5",
