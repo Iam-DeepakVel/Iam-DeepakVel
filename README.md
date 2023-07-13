@@ -1,7 +1,7 @@
 ## <p align="left">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Step into my GitHub realm</p>
 
 
-<a href="https://github.com/Iam-DeepakVel"><img src="https://readme-typing-svg.demolab.com?font=&color=%23FF0000&lines=Frontend+Developer;Backend+Developer;IT+Student;Active+Programmer;Craze+on+Full+Stack+development;Passionate+about+Innovation;Love+to+Code+and+Create"></a>
+<a href="https://github.com/Iam-DeepakVel"><img src="https://readme-typing-svg.demolab.com?font=&color=%23FF0000&lines=FullStack+Developer;IT+Student;Active+Programmer;Passionate+about+Innovation;Love+to+Code+and+Create"></a>
 
 
 ## 💫 About Me:
