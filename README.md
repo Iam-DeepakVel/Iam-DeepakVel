@@ -121,11 +121,6 @@ const Deepak = {
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=Iam-DeepakVel&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Deepak's Streak" />                                           |  <img width="450em" align="center" alt="Deepak's Github stats"  src="https://github-readme-stats.vercel.app/api?username=Iam-DeepakVel&show_icons=true&count_private=true&theme=radical" />   |
 
-
-### 📈 Contribution Graph
-<img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=Iam-DeepakVel&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Deepak's Contribution Graph" /> 
-
-
 ### ❤️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
