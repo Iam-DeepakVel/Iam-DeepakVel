@@ -13,7 +13,7 @@
 
 ⚡Expanding skills in TypeScript and NestJS framework.
 
-🚀Impressive portfolio showcasing projects and experiences at https://deepakwings.netlify.app.
+🚀Impressive portfolio showcasing projects and experiences at https://iamdeepakvel.vercel.app.
 
 🏸I enjoy playing badminton and listening to music.
   
