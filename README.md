@@ -49,9 +49,11 @@ const Deepak = {
     backend: {
       technologies: {
         runtimeEnvironment: "Node.js",
-        frameworks: ["Express.js", "NestJS"]
+        frameworks: ["Express.js", "NestJS", "Fastify"],
+        api: ["GraphQL"]
       }
     },
+    webFramework: ["Ruby on Rails"],
     databases: ["MongoDB", "PostgreSQL", "Firebase"],
     containerization: "Docker",
     ciCd: ["Jenkins", "GitHub Actions"],
@@ -62,7 +64,7 @@ const Deepak = {
       "Heroku",
       "Vercel"
     ],
-    awsServices: ["EC2", "Lambda function", "S3", "SES"],
+    awsServices: ["EC2", "Codecommit", "S3", "SES"],
     apiTestingTools: ["Postman", "Insomnia"],
     webServer: "NGINX"
   }
